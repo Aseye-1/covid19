@@ -1,0 +1,55 @@
+.border{
+    border: 2px groove #eceef0;
+    height: 100px;
+    width: 150px;
+    float: left;
+    margin: 50px;
+}
+.container{
+    border: 2px solid #eceef0;
+}
+.dborder{
+    border: 2px solid #cddae7;
+    background-color: #cddae7; 
+}
+.float{
+    margin-right: 50px;
+    padding-right: 100px;
+} 
+/* .border{
+    width: 200px;
+    height: 100px;
+    margin-left: 20px;
+    border: 2px groove #eceef0;
+} */
+.table1{
+    float: 200px right;
+}
+.B{
+    border: 2px solid #eceef0;
+    height: 150px;
+    width: 300px;
+    float: 600px left;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+span{
+    color: red;
+}
+.table2{
+    border-bottom: 400px;
+    padding-top: 200px;
+    max-width: 70%;
+    text-indent: 100px;
+    text-align: left;
+}
+.B table tr th{
+    text-align: center;
+    border: solid lightcoral;
+    color: tomato;
+}
+.B table tr td{
+    text-justify: inherit;
+}
